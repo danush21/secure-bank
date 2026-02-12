@@ -2,7 +2,7 @@
 
 This repository contains a banking application.
 
-## 📋 Challenge Instructions
+## 📋 Instructions
 
 Please read [BUGFIX-DOCUMENTATION.md](./BUGFIX-DOCUMENTATION.md) for the documentations of the bugfixes made and tests added.
 

@@ -1,10 +1,10 @@
-# SecureBank - SDET Technical Interview
+# SecureBank
 
-This repository contains a banking application for the Software Development Test Engineer (SDET) technical interview.
+This repository contains a banking application.
 
 ## 📋 Challenge Instructions
 
-Please see [CHALLENGE.md](./CHALLENGE.md) for complete instructions and requirements.
+Please read [BUGFIX-DOCUMENTATION.md](./BUGFIX-DOCUMENTATION.md) for the documentations of the bugfixes made and tests added.
 
 ## 🚀 Quick Start
 
@@ -25,5 +25,3 @@ npm run dev
 - `npm run db:list-users` - List all users in database
 - `npm run db:clear` - Clear all database data
 - `npm test` - Run tests (you'll need to configure this)
-
-Good luck with the challenge!
